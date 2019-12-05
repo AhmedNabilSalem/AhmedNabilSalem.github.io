@@ -32,7 +32,7 @@ permalink: /:title/
   #categories: []  only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/ahmednabilrady
+facebook: ahmednabilrady
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -40,7 +40,7 @@ facebook: https://www.facebook.com/ahmednabilrady
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/AhmedNabilSalem
+github: AhmedNabilSalem
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -55,8 +55,8 @@ authors:
     Ahmed Nabil:
         name: Ahmed Nabil
         bio: They can do all they can do but they can't break unbreakable
-        external-image: true
-        #picture: nabil.jpg
+        external-image: false
+        picture: assets/images/nabil.jpg
         
     
 
