@@ -6,6 +6,7 @@ bio: They can do all they can do but they can't break unbreakable
 # if it's an external image, update below for true
 # better with square images
 external-image: False
+picture: assets/images/nabil.jpg
 
 
 # If you want to include your resume, set to true
